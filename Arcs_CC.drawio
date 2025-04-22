@@ -1,9 +1,107 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.97 Safari/537.36 Core/1.116.475.400 QQBrowser/13.5.6267.400" version="26.2.13">
   <diagram name="第 1 页" id="riQj2SsIYHaeRm9hvg5i">
-    <mxGraphModel>
+    <mxGraphModel dx="1516" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-1" target="O2c5ZnIOiMMet67NoF-J-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-29" value="只要有帝国议会" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="O2c5ZnIOiMMet67NoF-J-28">
+          <mxGeometry x="-0.035" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-31" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-1" target="O2c5ZnIOiMMet67NoF-J-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-32" value="有事件牌&lt;div&gt;无帝国议会&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="O2c5ZnIOiMMet67NoF-J-31">
+          <mxGeometry x="-0.0273" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-1" value="一轮结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-10" value="下一轮" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-1" target="O2c5ZnIOiMMet67NoF-J-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="65" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-21" value="都没有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="O2c5ZnIOiMMet67NoF-J-20">
+          <mxGeometry x="-0.0909" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-24" target="O2c5ZnIOiMMet67NoF-J-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-24" value="&lt;b&gt;新先导玩家&lt;/b&gt;&lt;div&gt;可以发起峰会&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-30" value="&lt;b&gt;事件骰&lt;/b&gt;决定&lt;div&gt;危机 or 法案&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-37" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-33" target="O2c5ZnIOiMMet67NoF-J-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-33" value="&lt;b&gt;帝国议会保护人&lt;/b&gt;&lt;div&gt;可以发起峰会&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-34" value="&lt;b&gt;帝国议会保护人&lt;/b&gt;&lt;div&gt;决定 危机 or 法案&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-36" target="O2c5ZnIOiMMet67NoF-J-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-36" value="摄政者：夺取首席&lt;div&gt;罪犯：偷帝国信托&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-41" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-39" target="O2c5ZnIOiMMet67NoF-J-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-39" value="峰会开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-50" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="O2c5ZnIOiMMet67NoF-J-40" target="O2c5ZnIOiMMet67NoF-J-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-40" value="峰会发起者&lt;div&gt;单独行动&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-43" value="归还特权强制对手交易" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-44" value="帝国议会翻回&lt;div&gt;会议中&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-45" value="离开帝国" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="80" y="364" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-46" value="如无摄政者&lt;div&gt;成为首席摄政者&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="364" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="185" y="170" width="20" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-49" value="所有玩家自由交易" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-51" value="场上配件&lt;div&gt;(舰队、建筑、理事会代理人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-52" value="资源、战利品、俘虏、特权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-53" value="首席邀请罪犯加入帝国" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="435" y="170" width="20" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
