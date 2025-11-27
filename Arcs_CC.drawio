@@ -72,7 +72,7 @@
         <mxCell id="O2c5ZnIOiMMet67NoF-J-40" value="峰会发起者&lt;div&gt;单独行动&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O2c5ZnIOiMMet67NoF-J-43" value="归还特权强制对手交易" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-43" value="归还恩惠强制对手交易" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="90" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2c5ZnIOiMMet67NoF-J-44" value="帝国议会翻回&lt;div&gt;会议中&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -93,7 +93,7 @@
         <mxCell id="O2c5ZnIOiMMet67NoF-J-51" value="场上配件&lt;div&gt;(舰队、建筑、理事会代理人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="340" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O2c5ZnIOiMMet67NoF-J-52" value="资源、战利品、俘虏、特权" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="O2c5ZnIOiMMet67NoF-J-52" value="资源、战利品、俘虏、恩惠" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="460" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O2c5ZnIOiMMet67NoF-J-53" value="首席邀请不法者加入帝国" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
